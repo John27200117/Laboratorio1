@@ -7,6 +7,5 @@ def desordenar(lista, largo_lista,contador):
 A=[1,2,3,4,5,6,7,8,9]
 desordenar(A,len(A),0)
 print(A)
-print(A)
-print(A)
-print(A)
+#sí es aleatorio, pues para comprobarlo lo unico que se debe hacer es ejecutar el programa varias veces.
+#y este nos dará respuestas diferentes.
